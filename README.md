@@ -1,6 +1,6 @@
 # StegoProgram
 
-### Završni rad
+### Završni rad - Steganografija i steganaliza
 ### Autor: Kristijan Klasan
 
 **Steganografija** je znanost koja se bavi skrivanjem informacija u druge izvore informacije kao što su: slika, tekst, audio i video datoteke. Najčešće se radi o datotekama bezazlenog sadržaja za čiji sadržaj ne sumnjamo da sadrži ugrađene datoteke. Steganografija i kriptografija koriste se zbog sigurnosnog slanja podataka od pošiljatelja do primatelja poruke bez da treća osoba otkrije ili posumnja u njeno postojanje. U steganografiji se poruka čuva u tajnosti bez promjene dok se u kriptografiji izvorni sadržaj promijeni tijekom faza kao što su šifriranje i dešifriranje. 
